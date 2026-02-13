@@ -27,4 +27,4 @@ int main(){
     int *b;
     b = &a;
     cout << *b;
-}
+} //
