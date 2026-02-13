@@ -8,7 +8,7 @@ class Number{
                 this->i = i;
             }
             Number operator +=(Number n){
-                this->i += n.i;
+                i += n.i;
                 return *this;
             }
             int display(){
